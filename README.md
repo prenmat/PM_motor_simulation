@@ -1,5 +1,6 @@
 # PM_motor_simulation
 %% You need to install FEMM and the library Octave%%
+
 Simulation of PM motor via Femm, approach FEMM-Matlab
 This project is able to make a fast design of PM motor. The main target of this fast design is the torque, the others specifications can be tune up thanks to app Matlab.
 In the end the main file can be used in different ways:
